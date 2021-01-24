@@ -1,4 +1,6 @@
 Django + React Todo App boilerplate
+Project started from Django then added the frontend in the main Django project folder.
+Perhaps not the best option for deployment?
 
 React app created with CRA + Django REST service.
 
