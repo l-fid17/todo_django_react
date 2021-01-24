@@ -22,3 +22,6 @@ If you'd like CRA to open the React App automatically when starting the dev serv
 Django service running on port 8000
 View the Django Admin panel at http://localhost:8000/admin (remember to create a superuser before attempting to log in)
 The link to the api is /api/todos
+
+Reference:
+https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react
